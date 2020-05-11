@@ -16,7 +16,7 @@
      https://2ality.com/2013/10/typeof-null.html
 - 演算子  
   https://2ality.com/2014/01/eval.html
-   + Evaluating JavaScript code via eval() and new Function()
+   + Evaluating JavaScript code via eval() and new Function()  
      https://2ality.com/2014/01/eval.html
 - 暗黙的な型変換  
   https://jsprimer.net/basic/implicit-coercion/#nan-is-number-type
