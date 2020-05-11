@@ -34,3 +34,13 @@
      https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Regular_Expressions
      Unicode キャラクター図鑑  
      https://unicode-table.com/jp/#control-character
+- 文字列とUnicode  
+  https://jsprimer.net/basic/string-unicode/#string-unicode
+   + プログラマのための文字コード技術入門  
+     https://gihyo.jp/book/2019/978-4-297-10291-3
+   + 文字コード「超」研究  
+     http://www.rutles.net/products/detail.php?product_id=298
+
+
+- JavaScript Promiseの本  
+  https://azu.github.io/promises-book/
