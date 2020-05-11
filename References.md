@@ -32,7 +32,7 @@
      https://www.ecma-international.org/publications/standards/Ecma-402.htm
    + MDNの正規表現ドキュメント  
      https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Regular_Expressions
-     Unicode キャラクター図鑑  
+   + Unicode キャラクター図鑑  
      https://unicode-table.com/jp/#control-character
 - 文字列とUnicode  
   https://jsprimer.net/basic/string-unicode/#string-unicode
